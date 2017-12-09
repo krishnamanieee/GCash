@@ -76,17 +76,7 @@ public class CoupenAddActivity extends AppCompatActivity {
                     public void onErrorResponse(VolleyError error) {
 
                     }
-                }){
-            @Override
-            protected Map<String, String> getParams() {
-                // Creating Map String Params.
-                Map<String, String> params = new HashMap<String, String>();
-
-                // Adding All values to Params.
-                params.put("card", "7812369452489637" );
-                return params;
-            }
-        };
+                });
 
         RequestQueue requestQueue= Volley.newRequestQueue(getApplicationContext());
         requestQueue.add(stringRequest);
