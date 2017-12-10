@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/GCash.iml" filepath="$PROJECT_DIR$/.idea/GCash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GCash.iml" filepath="$PROJECT_DIR$/GCash.iml" />
+      <module fileurl="file://E:\RohaSoft\qadir\GCash\GCash\.idea\GCash.iml" filepath="E:\RohaSoft\qadir\GCash\GCash\.idea\GCash.iml" />
       <module fileurl="file://G:\Rohoosoft\GCash\GCash.iml" filepath="G:\Rohoosoft\GCash\GCash.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://G:\Rohoosoft\GCash\app\app.iml" filepath="G:\Rohoosoft\GCash\app\app.iml" />
+      <module fileurl="file://E:\RohaSoft\qadir\GCash\GCash\app\app.iml" filepath="E:\RohaSoft\qadir\GCash\GCash\app\app.iml" />
     </modules>
   </component>
 </project>
